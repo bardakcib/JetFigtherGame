@@ -1,4 +1,4 @@
-# 2D Jet Fighter Game written in JAVA
+# 2D Jet Fighter Game with Sounds written in JAVA
 
 ![](https://github.com/bardakcib/resources/blob/main/badges/built-with-love.svg)
 ![](https://github.com/bardakcib/resources/blob/main/badges/made-with-java.svg)
