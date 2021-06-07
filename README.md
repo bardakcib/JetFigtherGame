@@ -11,6 +11,7 @@ Specifications
 * 2D - Java Swing + Background Images
 * Sounds
 * Java Threads
+* Not a commercial project. Just For Training
 
 
 ## Main Screen
