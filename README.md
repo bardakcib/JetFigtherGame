@@ -8,9 +8,9 @@
 
 ## Specifications
 
-* 2D - Java Swing + Background Images
-* Sounds
-* Java Threads
+* 2D - [JAVA Swing](https://www.javatpoint.com/java-swing) + Background Images
+* Sounds from [Super Nintendo - Star Fox Game](https://en.wikipedia.org/wiki/Star_Fox_(1993_video_game)) !! My Favourite game :) 
+* [Java Threads](https://www.w3schools.com/java/java_threads.asp)
 * Not a commercial project. Just For Fun & Training
 
 
