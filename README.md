@@ -13,6 +13,8 @@
 * Java Threads
 * Not a commercial project. Just For Fun & Training
 
+![](https://github.com/bardakcib/JetFigtherGame/blob/main/resources/JavaJetFighterBedo.gif)
+
 
 ## Main Screen
 ![](https://github.com/bardakcib/JetFigtherGame/blob/main/resources/MainPage.PNG)
