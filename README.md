@@ -31,3 +31,6 @@ Specifications
 
 ## End Game
 ![](https://github.com/bardakcib/JetFigtherGame/blob/main/resources/rip.PNG)
+
+## Score Table
+![](https://github.com/bardakcib/JetFigtherGame/blob/main/resources/scoreTable.png)
