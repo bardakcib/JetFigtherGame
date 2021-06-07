@@ -13,6 +13,10 @@
 * Java Threads
 * Not a commercial project. Just For Fun & Training
 
+
+* Hold / Press Space for firing
+* Use WASD or ARROW Keys to move
+
 ![](https://github.com/bardakcib/JetFigtherGame/blob/main/resources/JavaJetFighterBedo.gif)
 
 
