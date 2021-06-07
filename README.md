@@ -6,7 +6,7 @@
 ![](https://github.com/bardakcib/resources/blob/main/badges/java.svg)
 
 
-Specifications
+## Specifications
 
 * 2D - Java Swing + Background Images
 * Sounds
